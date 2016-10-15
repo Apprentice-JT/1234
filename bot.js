@@ -1,5 +1,5 @@
 
-console.log('HAA~~llo~~~');
+console.log('H~~llo~~~');
 
 
 const Twit = require('twit');
