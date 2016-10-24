@@ -10,7 +10,7 @@ const utf8 = require('utf8')
 // console.log(data)
 // })
 
-const params = { q: 'Bob Dylan', count: 2 };
+const params = { q: 'wikileaks', count: 2 };
 
 function gotData(err, data, response) {
 	const tweets = data.statuses
