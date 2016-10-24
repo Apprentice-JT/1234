@@ -94,7 +94,7 @@ function followed(eventMsg){
 	var txt = `${screenName}, thanks for following me!`
 	send_message(screenName,txt)
 }
-
+// find statuses update version on youtube daniel shiffman channel
 function send_message(screenName,txt) {
 	var dm = {
 		"screen_name": screenName,
